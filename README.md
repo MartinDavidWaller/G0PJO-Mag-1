@@ -65,10 +65,24 @@ Install 3 binding posts. These provide connections to the keyer. Each post requi
 
 Expect to bury the nut within the body of the binding post. See the images below for the detailed construction. 
 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Mag-1.jpg"> 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S1F1.JPG" width="100"> 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S1F2.JPG" width="300"> 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S1F3.JPG" width="300">
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S1F1.JPG" width="100"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S1F2.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S1F3.JPG" width="300">
+
+### Step 2
+
+Build the two arms. Each arm requires:
+
+* Arm * 1
+* Lever Plate * 1
+* M2 Bolt 6mm * 1
+* M2 Nut 
+* M3 Bolt 6mm * 2
+* M3 Nut * 2
+* M3 Solder Tag * 1
+* Neodymium Magnet * 1
+
+Expect to bury the nuts within the arms. See the images below for the detailed construction. 
+
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F1.JPG" width="100"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F2.JPG" width="300"> 
 
 ### Step 2
 
