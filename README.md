@@ -146,7 +146,7 @@ See the image below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S6F1.JPG" width="300">
 
-### Step 6
+### Step 7
 
 Attach the DIT and DAH short arms to the body. Each post require:
 
@@ -159,13 +159,13 @@ hole as closely as possible. See the image below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S7F1.JPG" width="300">
 
-### Step 12
+### Step 8
 
 Add hook up wires. This requires:
 
 * Assembled keyer * 1
-* Short lengths of hook up wire, preferably multi strand for the top connections.
+* Short lengths of hook up wire, preferably multi strand.
 
 This is best described by the images below. 
 
-<img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S12F2.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S8F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S8F2.jpg" width="300"> 
