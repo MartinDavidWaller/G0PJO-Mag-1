@@ -91,9 +91,9 @@ Assemble the two magnet attraction bolts. Each bolt requires:
 
 See the images below for the detailed construction. 
 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F1.JPG" width="300">
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F2.JPG" width="300"> 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F3.JPG" width="300"> 
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F1.JPG" width="300">
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F2.JPG" width="300"> 
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F3.JPG" width="300"> 
 
 ### Step 2
 
