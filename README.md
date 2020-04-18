@@ -85,6 +85,16 @@ use a longer bolt to pull them in to the arm. See the images below for the detai
 
 <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F2.JPG" width="300"> 
 
+### Step 3
+
+Assemble the two magnet attraction bolts. Each bolt requires:
+
+See the images below for the detailed construction. 
+
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F1.JPG" width="300">
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F2.JPG" width="300"> 
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F3.JPG" width="300"> 
+
 ### Step 2
 
 Install 2 binding posts. These proveide connections to the DIT and DAH contacts. Each post requires:
