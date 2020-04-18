@@ -132,9 +132,7 @@ it makes contact with the upper M3 solder tag. The solder tag can then be solder
 This can be done in situ, but it is best to disassemble and solder them separately.
 See the images below for the detailed construction.
 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F1.jpg" width="300"> 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F2.jpg" width="100"> 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F3.jpg" width="300">
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F2.JPG" width="100"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F3.JPG" width="300">
 
 
 ### Step 2
