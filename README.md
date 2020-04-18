@@ -80,9 +80,10 @@ Build the two arms. Each arm requires:
 * M3 Solder Tag * 1
 * Neodymium Magnet * 1
 
-Expect to bury the nuts within the arms. See the images below for the detailed construction. 
+Expect to bury the nuts within the arms. If you have a problem inserting the nuts into the arm then simply 
+use a longer bolt to pull them in to the arm. See the images below for the detailed construction. 
 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F1.JPG" width="100"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F2.JPG" width="300"> 
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S2F2.JPG" width="300"> 
 
 ### Step 2
 
