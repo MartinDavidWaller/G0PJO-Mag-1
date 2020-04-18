@@ -4,6 +4,8 @@
  
  <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Mag-1.jpg"> 
  
+ [![Demo CountPages alpha](https://share.gifyoutube.com/KzB6Gb.gif)](https://www.youtube.com/watch?v=ek1j272iAmc)
+ 
  [![Watch the video](https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Mag-1.jpg)](https://1drv.ms/v/s!AnVoR6zEVAnDpdU-3a5iHmETETuGXw?e=P3bwG2)
  
  ## Required Parts
