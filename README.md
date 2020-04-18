@@ -89,6 +89,10 @@ use a longer bolt to pull them in to the arm. See the images below for the detai
 
 Assemble the two magnet attraction bolts. Each bolt requires:
 
+* M3 Knurled Bolt 20mm * 1
+* M3 Knurled Nut * 2
+* M3 Nut * 2
+
 See the images below for the detailed construction. 
 
 <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F1.JPG" width="300">
