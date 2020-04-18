@@ -4,7 +4,7 @@
  
  <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Mag-1.jpg"> 
  
- [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://1drv.ms/v/s!AnVoR6zEVAnDpdU-3a5iHmETETuGXw?e=P3bwG2)
+ [![Watch the video](https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Mag-1.jpg)](https://1drv.ms/v/s!AnVoR6zEVAnDpdU-3a5iHmETETuGXw?e=P3bwG2)
  
  ## Required Parts
  
