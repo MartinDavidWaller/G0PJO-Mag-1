@@ -95,9 +95,17 @@ Assemble the two magnet attraction bolts. Each bolt requires:
 
 See the images below for the detailed construction. 
 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F1.JPG" width="300">
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F2.JPG" width="300"> 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F3.JPG" width="300"> 
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F2.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S3F3.JPG" width="300"> 
+
+### Step 4
+
+Assemble the two signal contacts and attach the frame to the base place. Each side requires:
+
+* M3 Bolt 16mm * 2
+* M3 Nut * 1
+* M3 Solder Tag * 2
+
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S4F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S4F2.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S4F3.JPG" width="300"> 
 
 ### Step 2
 
