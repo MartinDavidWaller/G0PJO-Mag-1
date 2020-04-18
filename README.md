@@ -146,6 +146,19 @@ See the image below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S6F1.JPG" width="300">
 
+### Step 6
+
+Attach the DIT and DAH short arms to the body. Each post require:
+
+* M3 Bolt 30mm * 1
+
+Align the hole in the arm with the hole in the body and drop in the M3 bolt. When adjusted there is sufficient friction to keep
+the bolt, and hence the arms in place. There is provision in the bottom of the body for nuts on these two bolts but they
+were found not to be necessary. You may need to slightly enlarge these holes with a 3mm drill. If required try to follow the pilot
+hole as closely as possible. See the image below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S7F1.JPG" width="300">
+
 ### Step 12
 
 Add hook up wires. This requires:
