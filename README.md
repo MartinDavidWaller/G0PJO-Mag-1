@@ -134,6 +134,17 @@ See the images below for the detailed construction.
 
 <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F2.JPG" width="100"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S5F3.JPG" width="300">
 
+### Step 6
+
+Attach the DIT and DAH short contact posts to the base. Each post requires:
+
+* M3 Solder Tag * 1
+* M3 Bolt 16mm * 1
+
+Pass the bolt through an M3 solder tag and up through the base and into the base of the short contact post. Tighted as required.
+See the image below for the detailed construction.
+
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S6F1.JPG" width="300">
 
 ### Step 12
 
