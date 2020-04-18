@@ -4,6 +4,8 @@
  
  <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Mag-1.jpg"> 
  
+ [![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+ 
  ## Required Parts
  
  The following parts are all 3D printed. The table below details the part, the colour, the infill, 
@@ -168,4 +170,4 @@ Add hook up wires. This requires:
 
 This is best described by the images below. 
 
-<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S8F1.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S8F2.jpg" width="300"> 
+<img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S8F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S8F2.JPG" width="300"> 
