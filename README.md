@@ -105,6 +105,10 @@ Assemble the two signal contacts and attach the frame to the base place. Each si
 * M3 Nut * 1
 * M3 Solder Tag * 2
 
+The M3 bolt goes through an M3 solder tag, through the base plate into the body, 
+though an M3 solder tag and then through the M3 bolt.
+See the images below for the detailed construction. 
+
 <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S4F1.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S4F2.JPG" width="300"> <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Assembly/S4F3.JPG" width="300"> 
 
 ### Step 2
