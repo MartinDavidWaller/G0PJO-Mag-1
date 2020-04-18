@@ -26,25 +26,27 @@ The table below details all the additional hardware, nuts & bolts etc.
 
 | Part                                       | Quantity | See Note     |
 | ------------------------------------------ | ---------| ------------ |
-| M2 Bolt 6mm                                | 2        | 2            |
-| M2 Nut                                     | 2        | 2            |
-| M3 Bolt 6mm                                | 1        | 2            |
-| M3 Bolt 12mm                               | 3        | 2            |
-| M3 Bolt 16mm                               | 7        | 2            |
-| M3 Bolt 25mm                               | 1        | 5            |
-| M3 Knurled Bolt 20mm                       | 4        | 4            |
+| M2 Bolt 6mm                                | 2        | 1            |
+| M2 Nut                                     | 2        | 1            |
+| M3 Bolt 6mm                                | 4        | 1            |
+| M3 Bolt 16mm                               | 7        | 1            |
+| M3 Bolt 30mm                               | 2        | 2            |
+| M3 Knurled Bolt 20mm                       | 4        | 6            |
+| M3 Knurled Thumb Nut                       | 3        | 5            |
 | M3 Knurled Nut                             | 6        | 4            |
-| M3 Nut                                     | 23       | 2            |
-| M3 Solder Tag                              | 15       | 2            |
+| M3 Nut                                     | 17       | 1            |
+| M3 Solder Tag                              | 15       | 1            |
+| M3 Washer                                  | 3        | 1            |
 | Neodymium Magnets Rare 8mm Diameter by 3mm | 2        | 3            |
 
 Notes:
 
-1. Bought on ebay as a collection of assorted springs. Looking around you can find vendors selling individual prints. <https://www.ebay.co.uk/itm/Small-Tension-and-Compression-Springs-50-Mixed-Pack-Various-Sizes/362399846579?ssPageName=STRK%3AMEBIDX%3AIT&_trksid=p2057872.m2749.l2649>
-2. Bought from BitsBox. <https://www.bitsbox.co.uk/>
-3. Bought on ebay. <https://www.ebay.co.uk/itm/A2-STAINLESS-STEEL-POZI-PAN-HEAD-MACHINE-SCREWS-POZIDRIVE-BOLTS-VARIOUS-SIZES-UK/111302864530?ssPageName=STRK%3AMEBIDX%3AIT&var=410293126932&_trksid=p2057872.m2749.l2649>
-4. Bought on ebay. <https://www.ebay.co.uk/itm/Stainless-Steel-Knurled-Thumb-Screws-Hand-Grip-Knob-Bolts-M2-M2-5-M3-M4-M5-M6/283734090984?ssPageName=STRK%3AMEBIDX%3AIT&var=585141867619&_trksid=p2057872.m2749.l2649> <https://www.ebay.co.uk/itm/Carbon-Steel-Leveling-Round-Knurled-Thumb-Nut-Zinc-Ni-Plated-M2-M2-5-M3-M4-M5-M6/283734043425?ssPageName=STRK%3AMEBIDX%3AIT&var=585141799600&_trksid=p2057872.m2749.l2649>
-5. Found in my bit box. I'm sure they will be readily found on ebay.
+1. Bought from BitsBox. <https://www.bitsbox.co.uk/>
+2. Bought on ebay. <https://www.ebay.co.uk/itm/Pan-Head-M3-Machine-Screws-A2-Stainless-Steel-Phillips-Head-Bolts-Pozi/192055137207?ssPageName=STRK%3AMEBIDX%3AIT&var=491899070145&_trksid=p2057872.m2749.l2649>
+3. Bought on ebay. <https://www.ebay.co.uk/itm/Neodymium-Magnets-4mm-5mm-6mm-8mm-10mm-12mm-15mm-neo-magnet-discs-craft-hobby-UK/153421329186?hash=item23b89fb322:m:m1juFoeEcHYjNZV4bkC5ueA>
+4. Bought on ebay. <https://www.ebay.co.uk/itm/Carbon-Steel-Leveling-Round-Knurled-Thumb-Nut-Zinc-Ni-Plated-M2-M2-5-M3-M4-M5-M6/283734043425?ssPageName=STRK%3AMEBIDX%3AIT&var=585141799600&_trksid=p2057872.m2749.l2649> 
+5. Bought on ebay. <https://www.ebay.co.uk/itm/M2-M2-5-M3-M4-M5-M6-High-Knurled-Thumb-Nut-Stainless-Steel-Hand-Grip-Knob-Nuts/123896017185?ssPageName=STRK%3AMEBIDX%3AIT&var=424649684015&_trksid=p2057872.m2749.l2649>
+6. Bought on ebay. <https://www.ebay.co.uk/itm/Stainless-Steel-Knurled-Thumb-Screws-Hand-Grip-Knob-Bolts-M2-M2-5-M3-M4-M5-M6/283734090984?ssPageName=STRK%3AMEBIDX%3AIT&var=585141867619&_trksid=p2057872.m2749.l2649>
 
 ## Assembly
 
@@ -57,10 +59,11 @@ Install 3 binding posts. These provide connections to the keyer. Each post requi
 * M3 Bolt 16mm * 1
 * M3 Solder Tag * 1
 * Printed Binding Post * 1
-* M3 Nut * 2
+* M3 Knurled Thumb Nut * 1
+* M3 Nut * 1
 * M3 Washer * 1
 
-Expect to bury one nut within the body of the binding post. See the images below for the detailed construction. 
+Expect to bury the nut within the body of the binding post. See the images below for the detailed construction. 
 
 <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S1F1.jpg" width="100"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S1F2.jpg" width="300"> <img src="https://github.com/MartinDavidWaller/SEMI-AUTOMATIC-BUG-key---From-the-ground-up/blob/master/Pictures/Assembly/S1F3.jpg" width="300">
 
