@@ -1,6 +1,6 @@
 # G0PJO Mag-1
 
- Key
+ This is my take on a magnetic iambic paddle.
  
  <img src="https://github.com/MartinDavidWaller/G0PJO-Mag-1/blob/master/Pictures/Mag-1.jpg"> 
  
